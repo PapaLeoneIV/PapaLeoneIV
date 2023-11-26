@@ -19,7 +19,7 @@ fields_of_interest
 technical_background
   [
     "42 Firenze Luiss by FCRF"
-    "Self Taught Developer and Designer"
+    "Self Taught Developer and Data Analyst"
     "Bachelor Degree in Language Culture and Internation Studies"
   ]
 
