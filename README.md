@@ -1,28 +1,20 @@
-<!--
-**PapaLeoneIV/PapaLeoneIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
-  Hi 
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, 
-  I'm Riccardo Leone ✨
-</h1>
-<h3 align="center">
-  Student at 42 Florence 💼
-</h3>
-<h3 align="center">💻 Languages and Tools:</h3>
+
+```yaml
+name: "Riccardo Leone"
+location: "Florence"
+occupation: "Student at Florence42"
+
+fields_of_interest
+  [
+    "Webscraping"
+    "BlockChain"
+    "Data Analysis"
+    ""
+  ]
+
+```
+<h3 align="center">💻 Some Tools and Languages I've Learned:</h3>
 <p align="center"> 
   <a href="https://www.learn-c.org/" target=_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language" width="40" height="40"/>
@@ -58,7 +50,10 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </p>
 <br>
+    
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PapaLeoneIV&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Github%20Figures" alt="PapaLeoneIV" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PapaLeoneIV&theme=dracula&hide_border=true" alt="PapaLeoneIV" />
 </p>
+
+
