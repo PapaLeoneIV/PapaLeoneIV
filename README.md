@@ -35,6 +35,12 @@ technical_background
   <a href="https://nodejs.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
+      <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.rust-lang.org/" target=_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
+    </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -50,9 +56,6 @@ technical_background
     <a href="https://www.docker.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
-    <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  </a> 
   <a href="https://www.linux.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
@@ -61,9 +64,5 @@ technical_background
 </p>
 <br>
     
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PapaLeoneIV&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Github%20Figures" alt="PapaLeoneIV" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PapaLeoneIV&theme=dracula&hide_border=true" alt="PapaLeoneIV" />
-</p>
 
 
