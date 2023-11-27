@@ -22,6 +22,9 @@ technical_background
     "Self Taught Developer and Data Analyst"
     "Bachelor Degree in Language Culture and Internation Studies"
   ]
+currently_learning: ["C Language", "Rust", "Web3"]
+will_learn: ["DeFi Automatation"]
+hobbies: ["Teathers", "Cinema", "Competitive Gaming", "IoT"]
 
 ```
 <h3 align="center">💻 Some Tools and Languages I've Learned:</h3>
