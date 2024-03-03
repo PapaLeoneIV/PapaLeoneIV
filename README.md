@@ -1,5 +1,5 @@
 
-![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f763136323013638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f763136323013638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136]()
 
 
 ```yaml
@@ -29,6 +29,7 @@ hobbies: ["Teathers", "Cinema", "Competitive Gaming", "IoT"]
 ```
 <h3 align="center">💻 Some Tools and Languages I've Learned:</h3>
 <p align="center"> 
+  <iframe src="https://giphy.com/embed/arxiLc5EiFhja" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smile-studio-ghibli-arxiLc5EiFhja">via GIPHY</a></p>
   <a href="https://www.learn-c.org/" target=_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language" width="40" height="40"/>
     </a>
