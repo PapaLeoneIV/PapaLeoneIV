@@ -7,24 +7,43 @@ name: "Riccardo Leone"
 location: "Florence"
 occupation: "Student at Florence42"
 
-fields_of_interest
+flavor of the month
   [
-    "Webscraping"
-    "BlockChain"
-    "Data Analysis"
-    "Artificial Intelligence"
+    "Golang"
+    "Network Programming"
+    "RestAPI"
     "DevOps"
   ]
 
 technical_background
   [
     "42 Firenze Luiss by FCRF"
-    "Self Taught Developer and Data Analyst"
+    "Software developer(Self taught) && BackEndooooor wannabe"
     "Bachelor Degree in Language Culture and Internation Studies"
   ]
-currently_learning: ["C Language", "Django", "ServerSide Programming"]
-will_learn: ["Celery, OOP Patterns"]
-hobbies: ["Teathers", "Cinema", "Competitive Gaming", "IoT"]
+
+currently_learning:
+  [
+    "C Language",
+    "Go",
+    "Api Architecture"
+  ]
+
+Next subjexts to study:
+  [  
+    "C++",
+    "OOP Patterns",
+    Next.js"
+  ]
+
+hobbies:
+  [
+    "Teathers",
+    "Cinema",
+    "Competitive Gaming",
+    "Chess",
+    "Climbing"
+  ]
 
 ```
 <h3 align="center">💻 Some Tools and Languages I've Learned:</h3>
